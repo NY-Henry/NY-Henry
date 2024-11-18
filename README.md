@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @NY-Henry
-- 👀 I’m interested in Coding, learning and problem solving.
-- 🌱 I’m currently doing Bachelor's of Software Engineering at Ndejje University.
-- 💞️ I’m looking to collaborate on lots of projects .
-- 📫 How to reach me 👉 nyomorehenry@gmail.com or 0704025224.
+- 👀 I love coding, learning and making music.
+- 🌱 Always expanding my knowledge and learning new things.
+- 💞️ I like respectful people 😊 
+- 📫 How to reach me... https://ny-henry.github.io/NyHenry/
 - 😄 Pronouns: he.
-- ⚡ Fun fact: I love pizza, tea and coding.
-
-https://ny-henry.github.io/NyHenry/
+- ⚡ Fun fact: I love music, tea and coding.
 
 <!---
 NY-Henry/NY-Henry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
