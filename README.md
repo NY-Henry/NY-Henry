@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NY-Henry
+- - 📫 Personal Website -> https://ny-henry.github.io/NyHenry/
 - 👀 I love coding, learning and making music.
 - 🌱 Always expanding my knowledge and learning new things.
 - 💞️ I like respectful people 😊 
-- 📫 How to reach me... https://ny-henry.github.io/NyHenry/
 - 😄 Pronouns: he.
 - ⚡ Fun fact: I love music, tea and coding.
 
