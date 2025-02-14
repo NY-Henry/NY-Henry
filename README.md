@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NY-Henry
--  📫 Personal Website -> https://ny-henry.github.io/NyHenry/
+-  📫 [Portfolio Link](https://ny-henry.github.io/NyHenry/)
 - 👀 I love coding, learning and making music.
 - 🌱 Always expanding my knowledge and learning new things.
 - 💞️ I like respectful people 😊 
