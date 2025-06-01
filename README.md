@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm NY Henry</h1>
+<h1 align="center">Hey 👋 I'm Henry</h1>
 <p align="center">
   💻 Full-Stack Developer | 🌐 Tech Enthusiast | 🌱 Lifelong Learner
 </p>
