@@ -19,7 +19,6 @@
 ### 📫 Connect With Me
 
 - 🌐 [**Portfolio Website**](https://ny-henry.github.io/NyHenry/)
-- 📧 nyhenrymusic@gmail.com
 
 ---
 
