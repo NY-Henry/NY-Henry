@@ -1,24 +1,27 @@
-<h1 align="center">Hey 👋 I'm Henry</h1>
+<h1 align="center">Hey 👋 I'm NY Henry</h1>
 <p align="center">
-  💻 Full-Stack Developer | 🌐 Tech Enthusiast | 🌱 Lifelong Learner
+  💻 Full-Stack & Mobile Developer | 🌐 Tech Enthusiast | 🌱 Lifelong Learner
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a passionate developer focused on building efficient, scalable, and modern web applications.
-- 🌍 Based in Uganda, I love solving real-world problems through code.
-- 🧠 Always expanding my knowledge — from frontend frameworks to backend architecture and database management.
-- 💡 I value clean code, thoughtful design, and respectful collaboration.
+- 🚀 I'm a passionate **web & mobile developer** focused on building scalable, user-friendly applications.
+- 📱 I create responsive frontends with **React** and **React Native**, powered by robust backends using **Node.js** and **Firebase**.
+- 🌍 Based in Uganda, I love solving real-world problems with elegant code and thoughtful design.
+- 🔧 Currently diving deeper into **Next.js**, **backend architectures**, and modern state management.
+- 🧠 Always learning and exploring new tech to improve performance and user experience.
+- 💡 I value clean code, continuous learning, and respectful collaboration.
 - 😄 Pronouns: **he/him**
-- ☕ Fun fact: Tea keeps my logic flowing!
+- ☕ Fun fact: I code best with tea!
 
 ---
 
 ### 📫 Connect With Me
 
 - 🌐 [**Portfolio Website**](https://ny-henry.github.io/NyHenry/)
+- 📧 nyhenrymusic@gmail.com
 
 ---
 
@@ -31,12 +34,17 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 
-#### 🧠 Backend
+#### 📱 Mobile Development
+
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+#### 🔥 Backend & Services
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
 #### 🗄️ Databases
 
