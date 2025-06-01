@@ -10,7 +10,7 @@
 - 🚀 I'm a passionate **web & mobile developer** focused on building scalable, user-friendly applications.
 - 📱 I create responsive frontends with **React** and **React Native**, powered by robust backends using **Node.js** and **Firebase**.
 - 🌍 Based in Uganda, I love solving real-world problems with elegant code and thoughtful design.
-- 🔧 Currently diving deeper into **Next.js**, **backend architectures**, and modern state management.
+- 🔧 Currently diving deeper into **Machine learning** and **Ai**.
 - 🧠 Always learning and exploring new tech to improve performance and user experience.
 - 💡 I value clean code, continuous learning, and respectful collaboration.
 - 😄 Pronouns: **he/him**
