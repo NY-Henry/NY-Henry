@@ -20,7 +20,7 @@
 
 ### 📫 Connect With Me
 
-- 🌐 [**Portfolio Website**](https://ny-henry.github.io/NyHenry/)
+- 🌐 [**Portfolio Website**](nyhenry.com)
 
 ---
 
