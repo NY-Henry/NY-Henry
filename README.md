@@ -1,6 +1,6 @@
 <h1 align="center">NY Henry</h1>
 <p align="center">
-  <strong>Software Engineer | Full-Stack Developer | MERN & AI Specialist</strong>
+  <strong>Software Engineer | Full-Stack Developer | Student & AI Specialist</strong>
 </p>
 
 <p align="center">
