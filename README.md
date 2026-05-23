@@ -1,66 +1,73 @@
-<h1 align="center">Hey 👋 I'm NY Henry</h1>
+<h1 align="center">NY Henry</h1>
 <p align="center">
-  💻 Full-Stack & Mobile Developer | 🌐 Tech Enthusiast | 🌱 Lifelong Learner
+  <strong>Software Engineer | Full-Stack Developer | MERN & AI Specialist</strong>
+</p>
+
+<p align="center">
+  <a href="https://nyhenry.com/">Portfolio Website</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-- 🚀 I'm a passionate **web & mobile developer** focused on building scalable, user-friendly applications.
-- 📱 I create responsive frontends with **React** and **React Native**, powered by robust backends using **Node.js** and **Firebase**.
-- 🌍 Based in Uganda, I love solving real-world problems with elegant code and thoughtful design.
-- 🔧 Currently diving deeper into **Machine learning** and **Ai**.
-- 🧠 Always learning and exploring new tech to improve performance and user experience.
-- 💡 I value clean code, continuous learning, and respectful collaboration.
-- 😄 Pronouns: **he/him**
-- ☕ Fun fact: I code best with tea!
+I am a Software Engineer based in Uganda, specializing in building scalable enterprise solutions and modern web applications. Currently pursuing a Bachelor of Software Engineering, my focus is on designing robust backend systems, intuitive frontends, and integrating artificial intelligence into practical, real-world software.
+
+- 🚀 **Core Focus:** Architecting full-stack applications using the **MERN stack**, emphasizing strict **TypeScript** practices, type safety, and clean, maintainable codebases.
+- 💼 **Current Endeavors:** Founder and lead developer of **Stock-Nest**, a scalable business management system designed to streamline modern enterprise operations.
+- 🧠 **Advanced Research:** Actively implementing cutting-edge **AI** features, including **Retrieval-Augmented Generation (RAG)** and LLM-driven agents for enhanced data querying.
+- 🌍 **Beyond the Screen:** When I am not writing code, I am an electronic music producer specializing in Afro House.
 
 ---
 
-### 📫 Connect With Me
+### 🛠️ Technical Arsenal
 
-- 🌐[ [**Portfolio Website**]](https://nyhenry.com/)
-
----
-
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+#### 🌐 Frontend & UI
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=flat&logo=reactquery&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white)
 
 #### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=flat&logo=expo&logoColor=white)
 
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-#### 🔥 Backend & Services
-
+#### 🔥 Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-%2300758F.svg?style=flat&logo=postman&logoColor=white)
 
 #### 🗄️ Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
-#### ⚙️ Tools & Workflow
-
+#### ☁️ DevOps, Cloud & AI
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-%234CAF50.svg?style=flat&logo=jest&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-%23FF9900.svg?style=flat&logo=openai&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+- **Stock-Nest:** A comprehensive business management platform designed to scale operations for growing enterprises, utilizing a fully typed React frontend and robust Node.js backend.
+- **ProdFlow:** An Enterprise Resource Planning (ERP) and Manufacturing Execution System (MES) featuring complex production workflows, cost accounting, and dispatch management.
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NY-Henry&show_icons=true&theme=tokyonight&hide_title=false" alt="NY Henry's GitHub Stats" />
@@ -72,11 +79,8 @@
 
 ### 🧭 Guiding Principles
 
-> "Code with purpose. Learn without limits. Stay humble and consistent."
-
----
+> "Build with intention. Ensure type safety. Stay consistent."
 
 <!---
 NY-Henry/NY-Henry is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
