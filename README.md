@@ -73,6 +73,10 @@ I am a Software Engineer based in Uganda, specializing in building scalable ente
   <img src="https://github-readme-stats.vercel.app/api?username=NY-Henry&show_icons=true&theme=tokyonight&hide_title=false" alt="NY Henry's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NY-Henry&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NY-Henry&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=NY-Henry&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
