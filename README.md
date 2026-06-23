@@ -67,17 +67,30 @@ I am a Software Engineer based in Uganda, specializing in building scalable ente
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NY-Henry&show_icons=true&theme=tokyonight&hide_title=false" alt="NY Henry's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NY-Henry&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NY-Henry&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=NY-Henry&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NY-Henry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NY-Henry&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NY-Henry&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/NY-Henry?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/NY-Henry?tab=stars">
+    <img src="https://img.shields.io/badge/Starred%20Projects-FFD700?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+#### Featured TypeScript Projects
+- **Stock-Nest** — Enterprise-grade business management system built with TypeScript.
+- **ProdFlow** — ERP/MES platform with typed full-stack architecture.
+- **More coming soon** — I build most production software in TypeScript across web, API, and mobile projects.
 
 ---
 
